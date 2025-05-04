@@ -32,7 +32,7 @@ Automate venue booking, logistics coordination, and marketing tasks using CrewAI
 ## 📖 Usage 
 
 ```bash
-python event_planning_groq.py
+python main.py
 ```
 
 * Follow on‑screen prompts for API keys and human feedback. 
