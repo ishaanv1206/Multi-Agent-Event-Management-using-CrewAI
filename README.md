@@ -11,7 +11,7 @@ Automate venue booking, logistics coordination, and marketing tasks using CrewAI
 * **Venue Coordinator Agent** to find and book venues matching your event criteria. 
 * **Logistics Manager Agent** for parallel handling of catering and equipment setup. 
 * **Marketing & Communications Agent** to generate attendee outreach strategies in Markdown. 
-* Uses Groq’s 🦙 Llama 3.2 90B model for fast and accurate planning prompts. 
+* Uses Groq’s 🦙 llama-4-scout-17b-16e-instruct model for fast and accurate planning prompts. 
 
 ---
 
