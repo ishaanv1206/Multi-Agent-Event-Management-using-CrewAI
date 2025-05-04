@@ -6,7 +6,7 @@ Automate venue booking, logistics coordination, and marketing tasks using CrewAI
 
 ---
 
-## 🔧 Features ([Home][1])
+## 🔧 Features 
 
 * **Venue Coordinator Agent** to find and book venues matching your event criteria. 
 * **Logistics Manager Agent** for parallel handling of catering and equipment setup. 
@@ -15,7 +15,7 @@ Automate venue booking, logistics coordination, and marketing tasks using CrewAI
 
 ---
 
-## ⚙️ Setup ([Home][1])
+## ⚙️ Setup 
 
 1. Ensure Python 3.8+ is installed. 
 2. Install dependencies:
