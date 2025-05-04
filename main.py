@@ -9,7 +9,7 @@ search_tool = SerperDevTool(api_key=serper_api_key)
 scrape_tool = ScrapeWebsiteTool()
 
 groq_llm = LLM(
-    model="groq/llama-3.2-90b-text-preview",
+    model="groq/llama-4-scout-17b-16e-instruct",
     temperature=0.7,
     api_key=groq_api_key
 )
